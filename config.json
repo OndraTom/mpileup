@@ -1,0 +1,6 @@
+{
+  "parameters": {
+    "reference": "/data/in/files/reference/hs_ref_GRCh38.p12_chr17.fa",
+    "bam_files_dir": "/data/in/files"
+  }
+}
